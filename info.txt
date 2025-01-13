@@ -1,0 +1,59 @@
+Spring Boot: Aprende los Módulos para Ser un Experto Senior
+Debuggeando Ideas (Rene Calderon)
+
+
+Fecha de inicio: domingo 12 de enero de 2025
+
+Spring data JPA: Creando proyecto
+
+
+Estructura del proyecto
+02:17
+Postgres con docker
+07:10
+Configurando datasource
+04:23
+Mapeando entidad Vuelo(Fly)
+09:45
+Mapeando entidad Hotel
+01:26
+Usando lombok para nuestras entidades
+02:54
+¿Qué son los repositorios de spring data?
+04:45
+Implementando repositorios para vuelos y hoteles
+05:37
+Creando entidades tickets, reservaciones y clientes
+07:34
+Mapeando relacion entre vuelos y tickets
+05:11
+Mapeando relación entre hoteles y reservaciones
+03:05
+Mapeando entidad Tour
+06:19
+Mapeando relaciones con la entidad clientes
+03:43
+Implementando repositorios para tickets, vuelos y clientes
+12:21
+JPQL
+11:11
+Join con JPQL
+06:38
+Queries personalizados con lenguaje inclusivo de spring data
+08:39
+Join con lenguage inclusivo de spring data
+02:19
+Probando relaciones entre tour, vuelos, reservaciones y clientes
+06:42
+Mapeando relaciones inversas para tickets
+04:07
+Mapeando relaciones inversas para tickets
+01:26
+Probando nuestra implementación parte 1
+02:30
+Probando nuestra implementación parte 2
+04:47
+Ciclo de vida de una entidad
+02:22
+Cierre de la seccion
+02:41
