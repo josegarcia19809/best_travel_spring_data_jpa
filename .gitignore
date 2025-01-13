@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+docker-compose.yml
+/db/sql/create_schema.sql
+/db/sql/data.sql
+
+.env
